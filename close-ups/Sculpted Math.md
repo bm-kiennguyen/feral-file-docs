@@ -22,7 +22,8 @@ Right: Giovanni Paolo Pannini, Ancient Rome, 1857. Courtesy: Metropolitan Museum
 
 You have a physical object that you're scanning in, and you have the digital file, and then you print it again. When you get to the final sculpture, the first scanned object has already been transformed many times, and the same happens to its digital alter ego. This memory of the digital and of the physical are always mixed with one another. It’s the same with verbal translation: something is acquired and something is lost within the transition from the original language.
 
-[![BLOOMCORE](https://user-images.githubusercontent.com/47554564/232984060-3da42544-fd78-40d5-87cf-a550a1055115.jpg)]([https://asciinema.org/a/113463](https://user-images.githubusercontent.com/47554564/232982540-c98d622d-51e3-4eb1-80c9-aa4c335443ad.mp4))
+[![BLOOMCORE](https://user-images.githubusercontent.com/47554564/232982540-c98d622d-51e3-4eb1-80c9-aa4c335443ad.mp4)](https://user-images.githubusercontent.com/47554564/232982540-c98d622d-51e3-4eb1-80c9-aa4c335443ad.mp4)
+
 
 **Auriea:** But it gains a new meaning.
 
